@@ -1,0 +1,192 @@
+        prefix  build/ppp-marker/3.9.11
+      _asyncio  _asyncio*.so
+          _bz2  _bz2*.so bz2:1.0.8
+       _ctypes  1.1.0 _ctypes*.so ffi:30.0.0
+       _curses  2.2 _curses*.so ncurses:5.4.0
+          _dbm  _dbm*.so
+      _decimal  1.70 _decimal*.so
+    _functools  built-in None
+         _gdbm  *absent* None
+         _lzma  _lzma*.so
+      _sqlite3  3.37.0 _sqlite3*.so sqlite3:346.0.0
+          _ssl  OpenSSL 1.1.1s  1 Nov 2022 _ssl*.so
+      _tkinter  8.5 _tkinter*.so Tcl:8.5.9 Tk:8.5.9
+  _tracemalloc  built-in None
+         _uuid  _uuid*.so
+       dbm.gnu  *absent* None
+     ensurepip  22.0.4 lib/python3.9/ensurepip
+   ossaudiodev  *absent* None
+           pip  23.0.1 lib/python3.9/site-packages/pip
+       pyexpat  2.4.7 pyexpat*.so
+      readline  readline*.so edit:3.0.0 ncurses:5.4.0
+    setuptools  *absent* build/ppp-marker/3.9.11/lib/python3.9/distutils/core.py
+          spwd  *absent* None
+           sys  3.9.11 (main, Mar 15 2023, 21:45:54)  None
+       tkinter  *absent* None
+          venv  lib/python3.9/venv
+         wheel  *absent* None
+          zlib  1.2.11 zlib*.so z:1.2.11
+  libpython*.a  21 MB lib/python3.9/config-3.9-darwin/libpython3.9.a lib/libpython3.9.a
+ libpython*.so  -not used-
+  install size  76 MB
+.so files: 11 MB, 72 OK
+
+-- 72 OK
+lib/python3.9/lib-dynload/binascii.cpython-39-darwin.so
+  [system] /usr/lib/libz.1.dylib 1.2.11
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_codecs_cn.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_uuid.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_md5.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_sqlite3.cpython-39-darwin.so
+  [system] /usr/lib/libsqlite3.dylib 346.0.0
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/pyexpat.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/grp.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_bz2.cpython-39-darwin.so
+  [system] /usr/lib/libbz2.1.0.dylib 1.0.8
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/mmap.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_xxsubinterpreters.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/array.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/parser.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_pickle.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_posixsubprocess.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_ctypes_test.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_ssl.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_crypt.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_lzma.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/fcntl.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/audioop.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/readline.cpython-39-darwin.so
+  [system] /usr/lib/libedit.3.dylib 3.0.0
+  [system] /usr/lib/libncurses.5.4.dylib 5.4.0
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_hashlib.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_blake2.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/resource.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_xxtestfuzz.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_posixshmem.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/xxlimited.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_testimportmultiple.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/zlib.cpython-39-darwin.so
+  [system] /usr/lib/libz.1.dylib 1.2.11
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/termios.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_decimal.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_sha1.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_codecs_kr.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_bisect.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_scproxy.cpython-39-darwin.so
+  [system] /System/Library/Frameworks/SystemConfiguration.framework/Versions/A/SystemConfiguration 1241.60.3
+  [system] /System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation 1953.255.0
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/syslog.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_datetime.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_asyncio.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_curses_panel.cpython-39-darwin.so
+  [system] /usr/lib/libpanel.5.4.dylib 5.4.0
+  [system] /usr/lib/libncurses.5.4.dylib 5.4.0
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_queue.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_elementtree.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_codecs_iso2022.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/cmath.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_codecs_hk.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_multibytecodec.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_json.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_zoneinfo.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_contextvars.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_statistics.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_struct.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_ctypes.cpython-39-darwin.so
+  [system] /usr/lib/libffi.dylib 30.0.0
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_heapq.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_codecs_jp.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_csv.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_testmultiphase.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_lsprof.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/unicodedata.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_sha256.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_testbuffer.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_opcode.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_tkinter.cpython-39-darwin.so
+  [system] /System/Library/Frameworks/Tcl.framework/Versions/8.5/Tcl 8.5.9
+  [system] /System/Library/Frameworks/Tk.framework/Versions/8.5/Tk 8.5.9
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_curses.cpython-39-darwin.so
+  [system] /usr/lib/libncurses.5.4.dylib 5.4.0
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/math.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_multiprocessing.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_sha512.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_sha3.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/nis.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/select.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_dbm.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_codecs_tw.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_random.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0
+lib/python3.9/lib-dynload/_socket.cpython-39-darwin.so
+  [base] /usr/lib/libSystem.B.dylib 1319.0.0

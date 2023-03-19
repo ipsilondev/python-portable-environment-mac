@@ -1,0 +1,13 @@
+cpython:
+  source: https://www.python.org/ftp/python/3.9.11/Python-3.9.11.tar.xz
+  static: xz:5.2.6 openssl:1.1.1s
+  target: macos-x86_64
+  version: 3.9.11
+
+configure-args: --enable-optimizations --with-lto --with-ensurepip=upgrade --with-openssl=build/deps --with-system-ffi --with-dbmliborder=ndbm
+
+compilation-info:
+  compiled-by: https://pypi.org/project/portable-python/
+  date: 2023-03-15 21:51
+  host-platform: Darwin/21.6.0; x86_64 i386
+  portable-python-version: 1.6.3
